@@ -1,6 +1,5 @@
 # Get_Next_Line
 
-Get Next Line
 With the project get next line, I was able to finally write a function that will allow you to read a line ending with an
 newline character from a file descriptor.
 
